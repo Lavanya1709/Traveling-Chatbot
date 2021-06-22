@@ -1,0 +1,281 @@
+{
+	"Theatres": {
+		"Anantapur": {
+			"one" : "Triveni Theatre Complex\nhttps://goo.gl/maps/mtBboHcRj7KtdSmo9",
+			"two" : "\nSv Cinemax Theatre\nhttps://goo.gl/maps/FwJV29j5aKeSpzsdA",
+			"three" : "\nNeelima Theater\nhttps://goo.gl/maps/quGgpj8R3FEeioCQ6",
+			"four" : "\nGanga Talkies\nhttps://goo.gl/maps/Kr26wVVR7X2tR7RR9",
+			"five" : "\nNandini sarees Movie theater\nhttps://goo.gl/maps/Rs9gmWPyHsCvhszP8"
+		},
+		"Chittoor": {
+			"one" : "Raghava Cinema\nhttps://goo.gl/maps/un7rVV8N4Ns8QtfL8",
+			"two" : "\nSri Gurunatha Theatre\nhttps://goo.gl/maps/Z5ruNkSAvJr3ygnN9",
+			"three" : "\nMSR Theatre\nhttps://goo.gl/maps/6NNWJocasbBHm1s28",
+			"four" : "\nVijaya Lakshmi And Chanakya\nhttps://goo.gl/maps/XJaFXxBYR48E7ttj9",
+			"five" : "\nVijayalakshmi Theatre\nhttps://goo.gl/maps/s74KCcqjngPkR2No9"
+		},
+		"EastGodavari": {
+			"one" : "Akshara Cinemas\nhttps://g.page/Aksharacinemas?share",
+			"two" : "\nSri Venkatswara Theater /AC\nhttps://goo.gl/maps/X1CMpZ8Gn9pAQu4fA",
+			"three" : "\nVenkata Surya Theatre\nhttps://goo.gl/maps/3LcR6H1tY5UYHxXQ8",
+			"four" : "\nVenkata Ramana Theater\nhttps://goo.gl/maps/XJDwkADkGB4jJPAP6",
+			"five" : "\nVenkatanarayana Picture Palace A/C\nhttps://goo.gl/maps/VxhPWHbfqwtYHV947"
+		},
+		"Guntur": {
+			"one" : "SPI The cinema Guntur\nhttps://goo.gl/maps/29AdJAV4A1uMFeXQ7",
+			"two" : "\nSri Gowri Shankar Cinema Theatre\nhttps://goo.gl/maps/sMycaaLbPxGF1FgKA",
+			"three" : "\nHarihar Cinemas\nhttps://goo.gl/maps/iGzA9UvPoFKiu3zN7",
+			"four" : "\nBhaskar Cinemas\nhttps://goo.gl/maps/TyowdfdFUNuZNND4A",
+			"five" : "\nCine Prime\nhttps://goo.gl/maps/pVQd9ETxqSrjdP1cA"
+		},
+		"Krishna": {
+			"one" : "Poonima theater\nhttps://maps.app.goo.gl/7khZiveP4XXdCrGs7",
+			"two" : "\nSri venkateswara  nataraj mahal\nhttps://g.co/kgs/YGfmte",
+			"three" : "\nRamakrishna theater\nhttps://g.co/kgs/8r3qBS ",
+			"four" : "\nCpl venkey\nhttps://g.co/kgs/8XJ8Aq",
+			"five" : "\nSri Alankar Cinemas\nhttps://goo.gl/maps/e1vREt4aGXpAojmZ9"
+		},
+		"Kurnool": {
+			"one" : "Victory Theater\nhttps://goo.gl/maps/7MUH9iM8uv4k2t7k6",
+			"two" : "\nRadha Krishna Theater\nhttps://goo.gl/maps/Dtx9xL67P4EXZFAo9",
+			"three" : "\nvenkatesh cine complex\nhttps://g.page/venkatesh-cine-complex?share",
+			"four" : "\nBharath Cine Complex\nhttps://goo.gl/maps/69U5aXfGMCXXd4uPA",
+			"five" : "\nSVC Cinemas, City Square Mall, Kurnool\nhttps://goo.gl/maps/ifK4gTwmzMFd8zkt9"
+		},
+		"Prakasam": {
+			"one" : "\nRAMKRISHNA Dts\nhttps://goo.gl/maps/XnNUXpgFHp8znpNV8",
+			"two" : "\nSamba Siva\nhttps://goo.gl/maps/btQ9juEYMQU7PQAL6",
+			"three" : "\nPrasanthi Cinema Hall\nhttps://goo.gl/maps/owQJyobzYj5Pbm5i7",
+			"four" : "\nSri ramakrishna A/C Panguluru\nhttps://goo.gl/maps/cyaM5RhcaDaoq5Xp9",
+			"five" : "\ncinema hall center\nhttps://goo.gl/maps/vNxBn37tDWgqT3249"
+		},
+		"Nellore": {
+			"one" : "M1 Cinemas Nellore\nhttps://maps.app.goo.gl/iGkX4Bc8vT3Ziffh6",
+			"two" : "\nS2 CINEMAS\nhttps://maps.app.goo.gl/m541NSB75VNVXSaB7",
+			"three" : "\nSpice Cinemas Nellore\nhttps://maps.app.goo.gl/J9BEZWoBgnQknBak7",
+			"four" : "\nRain Square\nhttps://maps.app.goo.gl/P1ZEXbvSr36qvyw99",
+			"five" : "\nLeela Mahal Cinema\nhttps://maps.app.goo.gl/4ZEQoQTfNVTEZuM96"
+		},
+		"Srikakulam": {
+			"one" : "Surya Mahal Theatre\nhttps://goo.gl/maps/phr6bUbNkn3TjxvWA",
+			"two" : "\nKeerthana Cinema Theatre\nhttps://goo.gl/maps/kREf6Ctmvjt1LUS3A",
+			"three" : "\nSri Ramakrishna A/C Dts\nhttps://goo.gl/maps/ZJKV5WqxGqqcYEh89",
+			"four" : "\nSVC Ramalakshmana\nhttps://goo.gl/maps/CQFzSoQjxjGcF1VA9",
+			"five" : "\nAditya Max Theater\nhttps://goo.gl/maps/8QvTGpoaV1AXptKx6"
+		},
+		"Visakhapatnam": {
+			"one" : "Melody Theatre\nhttps://goo.gl/maps/xe3wgY3Sg6BxkMyp7",
+			"two" : "\nINOX\nhttps://goo.gl/maps/fL4CnPoSYpqzRM4y7",
+			"three" : "\nJagadamba Theatre\nhttps://goo.gl/maps/fVaXmf7woCm4bkm28",
+			"four" : "\nSTBL Drive-in Theater\nhttps://goo.gl/maps/sk5m1a3eXMdctkPf8",
+			"five" : "\nINOX Chitralayaa Multiplex\nhttps://goo.gl/maps/ekakXhSod5A9YBD17"
+		},
+		"Vizianagaram": {
+			"one" : "NCS Theatre\nhttps://goo.gl/maps/QJdSAJSmVa5d5jX18",
+			"two" : "\nINOX NCS\nhttps://goo.gl/maps/8LDAHer6NAzozxSbA",
+			"three" : "\nSVC cinemas\nhttps://goo.gl/maps/5DPCUQXkXwLmy13n6",
+			"four" : "\nT B R Cinemas\nhttps://goo.gl/maps/owHhuTGS9sRf4Amp6",
+			"five" : "\nSri Krishna Theatre\nhttps://goo.gl/maps/ttasAwMsoNFrF7oq5"
+		},
+		"WestGodavari": {
+			"one" : "Adabala Theatre\nttps://goo.gl/maps/yQemE6xP4akaJqxi7",
+			"two" : "\nGeetha Annapurna Theatre\nhttps://goo.gl/maps/46DgQxhaSfrMazor6",
+			"three" : "\nMaruthi Theatre\nhttps://goo.gl/maps/6o44aPiKBYpXgmWNA",
+			"four" : "\nGeetha Apsara Theatre\nhttps://goo.gl/maps/xNYyqn6qNgVdq4My8",
+			"five" : "\nAvg Cinemas Multiplex 4k Dolby Atmos\nhttps://goo.gl/maps/4Ch71nZn8R2FvnZ2A"
+		},
+		"Kadapa": {
+			"one" : "Angaar king City\nhttps://goo.gl/maps/hmFzdzDmgwTyo8Em8",
+			"two" : "\nRamesh Theatre\nhttps://goo.gl/maps/SXEyXebV6mqgSLjp8",
+			"three" : "\nChavan Reddy Cnw\nhttps://goo.gl/maps/5bc3PoFXcgP1G3uW8",
+			"four" : "\nSr cinema\nhttps://goo.gl/maps/8qCm8mUK9z8wBcaXA",
+			"five" : "\nPavani Theater\nhttps://goo.gl/maps/rQ9fcNiG57ZGEaMx5"
+		}
+	},
+	"Restaurants": {
+		"Anantapur": {
+			"one" : "Hakuna Matata Pizzeria\nhttps://g.page/hakuna-matata-pizzeria-anantapur?share",
+			"two" : "\nSagar Restaurant (PURE VEG HOTEL)\nFamily restaurant\nhttps://goo.gl/maps/tL4UCM6N6AfrPffP7",
+			"three" : "\nRAVITEJA HOTEL, OLD VIJAYA DHABA AND RESTAURANT\nhttps://g.page/VIJAYA_DHABA_AND_RESTAURANT?share",
+			"four" : "\nFamily Restaurant\nhttps://goo.gl/maps/W374cPn7QwCHhmcK7",
+			"five" : "\nGarlica restaurant\nhttps://g.page/garlica-restaurant?share"
+		},
+		"Chittoor": {
+			"one" : "Padmavathi Tiffin Centre\nhttps://goo.gl/maps/RuTANyNBKnUW96y6A",
+			"two" : "\nPizza Paradise\nhttps://g.page/PPCHITTOOR?share",
+			"three" : "\nNEW KING HOTEL MITTOOR\nhttps://goo.gl/maps/osL8N5GY3XZAH4S58",
+			"four" : "\nWay To Food Restaurant\nhttps://g.page/Waytofood?share",
+			"five" : "\nSFZ Pizza Hot\nhttps://g.page/sfz-pizza-hot?share"
+		},
+		"EastGodavari": {
+			"one" : "Local Food Court\nhttps://goo.gl/maps/CDbHwAq7K8J8y2XLA",
+			"two" : "\nBVC cafe\nhttps://goo.gl/maps/5PsqcJHMAziJQW9i6",
+			"three" : "\nVS Dine In\nhttps://g.page/vs-dine-in?share",
+			"four" : "\nSri Kanakadurga family Restaurant\nhttps://goo.gl/maps/SY4hduE4hJ7MNybf6",
+			"five" : "\nStar belly's\nhttps://goo.gl/maps/PNFvVnzNi5HYCL2a6"
+		},
+		"Guntur": {
+			"one" : "Little Spice A Multi cuisine Family Restaurant A/C\nhttps://g.page/little-spice-a-multi-cuisine-fam?share",
+			"two" : "\nCinnamon\nhttps://goo.gl/maps/yRqwrD6L1dtyD1NZ9",
+			"three" : "\nThe #Box\nhttps://g.page/the-box-guntur?share",
+			"four" : "\nBarbeque Nation - Guntur\nhttps://g.page/BNGuntur?share",
+			"five" : "\nSIRI RESTAURANT\nhttps://goo.gl/maps/Vr4MxKpyu8SP26bdA"
+		},
+		"Krishna": {
+			"one" : "Sweet magic\nhttps://maps.app.goo.gl/qNHU4DdsbmAsYD5v7",
+			"two" : "\nGAD restaurant\nhttps://maps.app.goo.gl/qNHU4DdsbmAsYD5v7",
+			"three" : "\nSri sai dharani restaurant\nhttps://maps.app.goo.gl/3NisyyimL7hQgEjK9",
+			"four" : "\nSree veranjaneya restaurant\nhttps://maps.app.goo.gl/LPTDSanDwoCU14sr7",
+			"five" : "\nDominos pizza\nhttps://maps.app.goo.gl/t9FbUP1EJVEFkr3o9"
+		},
+		"Kurnool": {
+			"one" : "Ajwa Restaurant\nhttps://goo.gl/maps/WsdVhAuD9yXmRrQ57",
+			"two" : "\nLotus Restaurant\nhttps://g.page/lotus-restaurant-kurnool?share",
+			"three" : "\nKurnool Club Canteen\nhttps://goo.gl/maps/gV8yXfnggwdp1xkHA",
+			"four" : "\nArunodaya Restaurant\nhttps://goo.gl/maps/jfWz2eGqnmrzDadB6",
+			"five" : "\nSpicy House Family Restaurant\nhttps://goo.gl/maps/wdqy7AQRLGLQGKCu5"
+		},
+		"Prakasam": {
+			"one" : "VNS Family Restaurant\nhttps://goo.gl/maps/LSP8oSWZ3SgazcwE6",
+			"two" : "\nSMILES Food Court\nhttps://goo.gl/maps/9GFLjfbt5Muyu9F99",
+			"three" : "\nZeebu Multi Themed Restaurant\nhttps://g.page/zeebu?share",
+			"four" : "\nVGrand Restaurant And Bar\nhttps://g.page/vgrandlounge?share",
+			"five" : "\nGUNTHER'S KITCHEN, FAMILY RESTAURANT\nhttps://goo.gl/maps/hU9cTSkYzDUN5ZNZ7"
+		},
+		"Nellore": {
+			"one" : "OOTEA\nhttps://maps.app.goo.gl/6brFFijLD56B6Wpo8",
+			"two" : "\nS Food Hub\nhttps://maps.app.goo.gl/vFmqn1Fx4NzogvceA",
+			"three" : "\n3 coins restaurant s\nhttps://maps.app.goo.gl/saZTNQFaGbr6H7Cj9",
+			"four" : "\nBypass kitchen\nhttps://maps.app.goo.gl/14PBQxyc1LY4ezqC7",
+			"five" : "\nKomala vilas\nhttps://maps.app.goo.gl/PRBoFPG5bUBj75pC8"
+		},
+		"Srikakulam": {
+			"one" : "Mandi Croods\nhttps://g.page/MandiCroods?share",
+			"two" : "\nV Grand Restaurant\nhttps://goo.gl/maps/jqzFUF4sgp16D3sy5",
+			"three" : "\nHotel SVD\nhttps://g.page/HOTELSVD?share",
+			"four" : "\nDowntown\nhttps://goo.gl/maps/rZfs5QtaSQEdUqh86",
+			"five" : "\nFamous restaurant\nhttps://goo.gl/maps/rM9RBPQUx37uR5jF9"
+		},
+		"Visakhapatnam": {
+			"one" : "Horizon Restaurant\nhttps://g.page/horizon-restaurant-visakhapatnam?share",
+			"two" : "\nDharani Restaurant\nhttps://goo.gl/maps/53hJEP8nUKetyCLo6",
+			"three" : "\nFlying Spaghetti Monster\nhttps://g.page/fsm-vizag?share",
+			"four" : "\nBarbeque Nation - Visakhapatnam - Harbour Road\nhttps://g.page/BNVisakhapatanam?share",
+			"five" : "\nKanhaji Family Restaurant, Visakhapatnam\nhttps://goo.gl/maps/6TZvhUyoz41ovmQP9"
+		},
+		"Vizianagaram": {
+			"one" : "Kitchen Flare\nhttps://goo.gl/maps/FZaUwWyCYKVGuNeA6",
+			"two" : "\nBIRYANI EXPRESS\nhttps://goo.gl/maps/q25iqb6HfRthGupe7",
+			"three" : "\nDownTown Resto Cafe\nhttps://g.page/downtown-resto-cafe?share",
+			"four" : "\nKammani Ruchulu\nhttps://g.page/kammani-ruchulu?share",
+			"five" : "\nTandoori House\nhttps://g.page/tandoorihousevzm?share"
+		},
+		"WestGodavari": {
+			"one" : "Bamma Restaurant\nhttps://g.page/bamma-restaurant-jangareddygudem?share",
+			"two" : "\nMadhura A Multi Cusine Restaurant\nhttps://goo.gl/maps/XDuQDnVLc6Z5VVze7",
+			"three" : "\nPizza Engineer\nhttps://g.page/Pizza-Engineer?share",
+			"four" : "\nKeerthana Food Court\nhttps://g.page/Keerthanaffc?share",
+			"five" : "\nZaaiqa family restaurant\nhttps://goo.gl/maps/guoRh7k3D3WqTFDx7"
+		},
+		"Kadapa": {
+			"one" : "Kadapa Bawarchi Family Restaurant\nhttps://goo.gl/maps/TXShtdNmBrGw9AXh6",
+			"two" : "\nMithun Hotel\nhttps://goo.gl/maps/VhH8vqRKuniuRXrE6",
+			"three" : "\nONEBITE KADAP\n:https://goo.gl/maps/CRyLzx4tDiscuhcL9",
+			"four" : "\nStreat kitchen\nhttps://g.page/streat-kitchen-kadapa?share",
+			"five" : "\nSree Ragavendra Darshan\nhttps://goo.gl/maps/TzjXNGBnwRvqsJKG8"
+		}
+	},
+	"Hotels": {
+		"Anantapur": {
+			"one" : "Bagya's Residency\nhttps://g.page/bagya-s-residency?share",
+			"two" : "\nHotel Rajahamsa\nhttps://g.page/hotel-rajahamsa?share",
+			"three" : "\nRAVITEJA HOTEL, OLD VIJAYA DHABA AND RESTAURANT\nhttps://g.page/VIJAYA_DHABA_AND_RESTAURANT?share",
+			"four" : "\nHotel Gpr grand\nhttps://g.page/hotel-gpr-grand?share",
+			"five" : "\nHotel SR Grand\nhttps://goo.gl/maps/aVMC1GWVw4A69fLE8"
+		},
+		"Chittoor": {
+			"one" : "Hsm Grand\nhttps://g.page/hsm-grand?share",
+			"two" : "\nPRABHAA GRAND INN\nhttps://g.page/prabhaagrandinn?share",
+			"three" : "\nVARUN RESIDENCY\nhttps://g.page/Varunresidency?share",
+			"four" : "\nPUJITHA RESIDENCY A/c\nhttps://goo.gl/maps/eV5JKCEDz95ud5gLA",
+			"five" : "\nSriPaadha Inn\nhttps://goo.gl/maps/aqfcKcSjDbb7sYWB9"
+		},
+		"EastGodavari": {
+			"one" : "Hotel Jaya Residency\nhttps://g.page/hotel-jaya-residency-kakinada?share",
+			"two" : "\nGrand Kakinada by GRT Hotels\nhttps://goo.gl/maps/Q6Jv7Lb9bsGwsd8N6",
+			"three" : "\nRVR Sarovar Portico Dindi\nhttps://goo.gl/maps/j8MZbVa6RRY3NkSi6",
+			"four" : "\nGrand Kakinada by GRT Hotels\nhttps://goo.gl/maps/EUo842q62LZNRehq7",
+			"five" : "\nOne Resorts and Conventions\nhttps://goo.gl/maps/uYVT99kEKEavqKyH6"
+		},
+		"Guntur": {
+			"one" : "Hotel Geetha Regency\nhttps://goo.gl/maps/ZoZxJbY5E2WcWeUu6",
+			"two" : "\nHOTEL ZURI\nhttps://goo.gl/maps/heWYAd4gR5Essx1R9",
+			"three" : "\nHotel Gnr Palace\nhttps://goo.gl/maps/QVSHWVAPPbGGrEFC6",
+			"four" : "\nHotel Embassy\nhttps://g.page/hotel-embassy?share",
+			"five" : "\nThe Capital Hotel\nhttps://goo.gl/maps/mUGr8u3Q7QJA6aQ79"
+		},
+		"Krishna": {
+			"one" : "GK grand\nhttps://maps.app.goo.gl/zQmPJZeNZPk5BdSj6",
+			"two" : "\nKrishna reddy hotel\nhttps://maps.app.goo.gl/fAAZkJfHhBPyo3z77",
+			"three" : "\nBhrundavan lodge\nhttps://maps.app.goo.gl/afdGiP8mJeWGeL54A",
+			"four" : "\nRK good times\nhttps://maps.app.goo.gl/a2K9hHQ61QGsxSJm9",
+			"five" : "\nBest indira grand\nhttps://maps.app.goo.gl/mYWvNBiyMWrPdoap9"
+		},
+		"Kurnool": {
+			"one" : "Mourya Lords Inn Kurnool\nhttps://goo.gl/maps/thtHwdmGhiYQGYAs6",
+			"two" : "\nMourya Lords Inn Kurnool\nhttps://goo.gl/maps/MSXucXVrEBabKTo86",
+			"three" : "\nHotel DVR Mansion\nhttps://goo.gl/maps/tv4RBepqsAqHDAVv7",
+			"four" : "\nTriguna Clarks Inn\nhttps://g.page/Trigunaclarksinn?share",
+			"five" : "\nHotel PrimeLand\nhttps://g.page/hotelprimeland1?share"
+		},
+		"Prakasam": {
+			"one" : "Hotel Geetha Regency\nhttps://goo.gl/maps/1a9pMz76aL4ZRSLs5",
+			"two" : "\nAnnapurna Lodge\nhttps://goo.gl/maps/cCvGCJoYhKQ4rzsSA",
+			"three" : "\nHOTEL ZURI\nhttps://goo.gl/maps/eBhTLfZG5W9QdR4e6",
+			"four" : "\nNalluri Garden Resort\nhttps://g.page/nalluri-garden-resort?share",
+			"five" : "\nHotel Sri Sai Lodge\nhttps://goo.gl/maps/9D5kXJ9qiM8s1qBg7"
+		},
+		"Nellore": {
+			"one" : "Hotel Athidhi Grand\nhttps://maps.app.goo.gl/p4gKR7J4vo9V5xNt5",
+			"two" : "\nHOTEL DSR PARADISE\nhttps://maps.google.com/?cid=13013298277884961674&entry=gps",
+			"three" : "\nHotel President's Inn\nhttps://maps.app.goo.gl/pPA2BdvsMC8H7gbc9",
+			"four" : "\nHotel Pavani Residency\nhttps://maps.app.goo.gl/ccQ5mm7yUZupqGUN8",
+			"five" : "\nVintage Inn Hotel Nellore\nhttps://maps.app.goo.gl/bCWpBGcuCkfbPWjEA"
+		},
+		"Srikakulam": {
+			"one" : "Hotel Vijetha Inn\nhttps://g.page/hotel-vijetha-inn-?share",
+			"two" : "\nVaram Residency\nhttps://goo.gl/maps/ittYzzWfiJgvA9Su8",
+			"three" : "\nThe Sunrise Hotel\nhttps://goo.gl/maps/rR2fUAHuHG32kCaZ6",
+			"four" : "\nHotel vineela\nhttps://g.page/hotel-vineela?share",
+			"five" : "\nHotel Blue Earth\nhttps://goo.gl/maps/Zy3Kp298qAPs79yD7"
+		},
+		"Visakhapatnam": {
+			"one" : "Novotel Visakhapatnam Varun Beach\nhttps://g.page/NovotelVizag?share",
+			"two" : "\nFairfield by Marriott Visakhapatnam\nhttps://g.page/VTZFI?share",
+			"three" : "\nWelcomhotel By ITC Hotels, Devee Grand Bay, Visakhapatnam\nhttps://goo.gl/maps/uC98rhYy2QMifWTG8",
+			"four" : "\nThe Gateway Hotel Beach Road, Visakhapatnam\nhttps://goo.gl/maps/KoqicKEmFQpXigZF6",
+			"five" : "\nHotel Daspalla Visakhapatnam\nhttps://goo.gl/maps/L28xrBrDagsrWpvM9"
+		},
+		"Vizianagaram": {
+			"one" : "Hotel Bajarangee\nhttps://goo.gl/maps/oK19pL8b9uVXAiR98",
+			"two" : "\nSujatha Convention Center\nhttps://g.page/sujatha-convention-center?share",
+			"three" : "\nVytla Residency\nhttps://goo.gl/maps/HgmWcKXbAweLSGCMA",
+			"four" : "\nSalsons Retreat\nhttps://goo.gl/maps/v4eMSFCzqQ3jiEW38",
+			"five" : "\nHotel Darshee International\nhttps://goo.gl/maps/pBsk6W6k8KjDL4WK9"
+		},
+		"WestGodavari": {
+			"one" : "Papikondalu Resorts\nhttps://goo.gl/maps/6TyfjWv1BBqYJVFa9",
+			"two" : "\nHOTEL S-INN\nhttps://g.page/hotel-s-inn?share",
+			"three" : "\nAbhilasha Pride\nhttps://g.page/AbhilashaPrideBhimavaram?share",
+			"four" : "\nRVR Sarovar Portico Dindi\nhttps://goo.gl/maps/LdBVMq544fEWTAgo7",
+			"five" : "\nLemon Tree Premier,Vijayawada\nhttps://goo.gl/maps/xp1MufzT9vAXuoFZ9"
+		},
+		"Kadapa": {
+			"one" : "RK RESIDENCY\nhttps://goo.gl/maps/EazNDq2M9RP72gbt6",
+			"two" : "\nRoyal Fort Hotel & Lodge\nhttps://goo.gl/maps/iDdBTjiaSFGqwFJE6",
+			"three" : "\nHOTEL RAMCHARAN RESIDENCY, TIRUPATI\nhttps://g.page/hotel-ramcharanresidency-tirupat?share",
+			"four" : "\nHotel MountView Comforts\nhttps://g.page/hotel-mountview-comforts?share",
+			"five" : "\nMarasa Sarovar Premiere, Tirupati\nhttps://goo.gl/maps/7NKBbRME38o3wn2D7"
+		}
+	}
+}
